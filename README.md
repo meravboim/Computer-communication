@@ -7,13 +7,13 @@ This repository contains exersize from the omputer communicationprogramming in A
 ### EX 1: <br /> 
 Answer to Wireshark_Intro_v6.0 file.<br />
 ### EX 2:  <br /> 
-UDP programming. <br />
+UDP programming. (c) <br />
 ### EX 3: <br /> 
 Wireshark HTTP DNS. <br />
 ### EX 4: <br /> 
 APPLayer. <br />
 ### EX 5: <br /> 
-Programming. <br />
+Programming. (python) <br />
 ### EX 6: <br /> 
 Wireshark TCP. <br />
 
